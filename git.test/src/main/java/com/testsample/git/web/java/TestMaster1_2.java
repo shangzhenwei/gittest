@@ -6,6 +6,8 @@ public class TestMaster1_2 {
 		System.out.println("master1_2");
 		System.out.println("master2_1");
 		System.out.println("master2_1");
+		System.out.println("branch1_1");
+		System.out.println("branch1_2");
 	}
 
 }
