@@ -7,6 +7,7 @@ public class TestReset1 {
 		System.out.println("master rebase1_1");
 		System.out.println("branch rebase 1_1");
 		System.out.println("branch rebase 2_1");
+		System.out.println("master rebase2_1");
 	}
 
 }
